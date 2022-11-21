@@ -1,5 +1,13 @@
+@font-face {
+  font-family: 'GrapeNuts-Regular';
+  src: url('./GrapeNuts-Regular.ttf');
+  font-weight: 600;
+  font-style: normal;
+}
+
 .hello {
     color: red;
+    font-family: 'GrapeNuts-Regular';
     background: url('./icon.png');
   }
   
